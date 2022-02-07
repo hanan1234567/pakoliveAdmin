@@ -1,0 +1,8 @@
+{
+    "apiUrl": "https://pakolive.herokuapp.com/api/portal/",
+    "tokenName": "InsafAcademy-AuthToken",
+    "accessToken": "_accessToken",
+    "apiMaxTime": 15000,
+    "storageKey": "InsafAcademy-Storage",
+    "public_path": "https://pakolive.herokuapp.com/"
+}

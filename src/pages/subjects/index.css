@@ -1,0 +1,3 @@
+.content{cursor: pointer;}
+.content-actions{visibility: hidden;}
+.contents .content:hover  .content-actions{visibility: visible;}

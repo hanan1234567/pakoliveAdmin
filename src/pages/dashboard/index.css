@@ -1,0 +1,40 @@
+.brand-bg{background-color: #CC723F;}
+.brand-color{color:#CC723F}
+.brand-border{border:1px solid #CC723F}
+/*  */
+.secondary-bg{background-color: #3C3434;}
+.secondary-color{color: #3C3434;}
+.secondary-border{border:1px solid #3C3434}
+/*  */
+.brand-bg-2{background: #829067;}
+.brand-color-2{color: #829067;}
+.brand-border-2{border:1px solid #829067;}
+.justify-center{display: flex;justify-content: center;}
+.center{display: flex;justify-content: center;align-items: center;}
+.align-center{display: flex;align-items: center;}
+.space-between{display: flex;justify-content: space-between;}
+.align-center-space-between{display: flex;align-items: center;justify-content: space-between;}
+.space-between-center{display: flex;justify-content: space-between;align-items: center;}
+.flex-col-center{display: flex;flex-direction: column;align-items: center;}
+.flex-col-justify-center{display: flex;flex-direction: column;justify-content: center;}
+.flex-col-center-center{display: flex;flex-direction: column;align-items: center;justify-content: center;}
+.flex-col{display: flex;flex-direction: column;}
+.bg{background-color: #F8F2ED;}
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #F8F2ED; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #829067; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #96a084; 
+  }
